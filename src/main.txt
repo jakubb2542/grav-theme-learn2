@@ -1,1 +1,2 @@
 Learn2 Grav Theme
+# handle the edge case from the last release
